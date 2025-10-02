@@ -132,7 +132,7 @@ export default function CarInsurancePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12 animate-in fade-in duration-700">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose Car Insurance?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose Cars Insurance?</h2>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             <Card
